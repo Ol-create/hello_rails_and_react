@@ -1,13 +1,13 @@
 import axios from 'axios';
 
 const fetchGreeting = async () => {
-  const response = await axios.get('v1/greetings')
-  return response.data
-}
+  const response = await axios.get('v1/greetings');
+  return response.data;
+};
 
 const initialState = {
   greeting: '',
-}
+};
 
 const GET_GREETING_REQUEST = '/greeting/GET_GREETING_REQUEST';
 
@@ -27,7 +27,7 @@ const greetingReducer = (state = initialState, action) => {
     default:
       return state;
   }
-}
+};
 
 export default greetingReducer;
 export { getGreeting };
