@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h3><b>Welcome this is Blog App Rails</b></h3>
+  <h3><b>Welcome this is Hello React and Rails</b></h3>
 
 </div>
 
@@ -12,7 +12,8 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
+- [💻 Getting Started](#getting-started)Uola1992
+- 
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
@@ -28,7 +29,7 @@
 - [📝 License](#license)
 
 
-# 📖 [MBudget_app] <a name="about-project"></a>
+# 📖 [hello_rails_and_react] <a name="about-project"></a>
 
 > This is a blog app built with Ruby on Rails. It allows users to create an account, create posts, and comment on other posts.
 
@@ -36,7 +37,6 @@
 
 + Ruby
 + Ruby on Rails
-+ PostgreSQL
 + React
 + Redux
 
@@ -47,13 +47,6 @@
   <summary>Client</summary>
   <ul>
     <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
 
@@ -87,7 +80,6 @@ To get a local copy up and running follow these simple example steps.
 
 - Ruby: 3.1.2
 - Rails:
-- PostgreSQL
 - Rspec
 
 ### Install <a name="install"></a>
